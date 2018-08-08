@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+dontcompile "fmt"
 
 func main() {
     fmt.Println("+")
